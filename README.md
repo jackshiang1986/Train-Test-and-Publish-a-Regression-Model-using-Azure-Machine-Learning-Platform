@@ -14,4 +14,3 @@ Finally, the trained model is published as a web service and can be shared with 
 
 The following document is provided in this repository:
   1. DSE0322A-Lee Jack Shiang-Project.docx: Word document for the project report
-ccc
