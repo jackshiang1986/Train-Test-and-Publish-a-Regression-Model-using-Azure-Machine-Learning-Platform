@@ -15,7 +15,7 @@ The following are the objectives of the project:
 To start building the model in AML, the built-in “Flight Delays Data” is first loaded into the AML experiment file. Prior to training the model, some data pre-processing (eg. joining of 2 datasets, data cleansing, standardization for selected numerical variables etc.) and some data visualization (using the Execute R Script module in AML studio) shall be done.
 After completing the data-preprocessing and data visualization, a regression model can be built in AML studio. Boosted decision tree regression is selected for the model, and 70% of the dataset is used for training, and the remaining 30% is used for testing. The model is evaluated based on both train and test data since for a good model, its accuracy shall be as high as possible and performance between train and test data shall be as close as possible. Finally, the trained model is published as a web service and can be shared with others, for which future predictions for ArrDelay based on other set of data can be readily made using Excel Online.
 
-Note: The regression model obtained at the end of this project can be further improved using techniques for improving model from further module and it is provided in another project named “Prediction of Regression Model using Azure Machine Learning Platform” in the repository.
+Note: The regression model obtained at the end of this project can be further improved using techniques for improving model from further module and it is provided in another repository named “Prediction of Regression Model using Azure Machine Learning Platform”.
 
 The following document is provided in this repository:
   1. DSE0322A-Lee Jack Shiang-Project.docx: Word document for the project report
