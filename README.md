@@ -1,5 +1,7 @@
 # Train, Test and Publish a Regression Model using Azure Machine Learning Platform
 
+This project serves as the Summative Assessment for module "Data Science Essentials" of Professional Diploma in Data Science of Lithan Academy.
+
 ## Project Overview
 
 In this project, Azure Machine Learning (AML) studio is utilized for data pre-processing, and for subsequent training, evaluation, and deployment of a machine learning model as a web service for future predictions using Excel Online. The dataset which is used for this project is “Flight Delays Data”, a built-in dataset in AML studio. The built-in “Flight Delays Data” in AML studio consists of 2,719,418 rows (observations) and 14 columns (variables). A more detailed overview for this dataset is provided in Activity 2 of the attached project report (DSE0322A-Lee Jack Shiang-Project.docx).
